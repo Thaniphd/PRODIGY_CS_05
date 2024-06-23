@@ -1,0 +1,80 @@
+Source IP: 192.168.10.41
+Destination IP: 142.250.195.138
+Protocol: UDP
+Payload: UDP 192.168.10.41:40158 > 142.250.195.138:https / Raw
+--------------------------------------------------
+Source IP: 142.250.195.138
+Destination IP: 192.168.10.41
+Protocol: UDP
+Payload: UDP 142.250.195.138:https > 192.168.10.41:40158 / Raw
+--------------------------------------------------
+Source IP: 192.168.10.33
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: UDP / DNS Ans b'Android.local.'
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.10.41
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.10.41:43112 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.10.41:43112 > 13.107.42.14:https A
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.10.41:43112 > 13.107.42.14:https PA / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.10.41:43112 > 13.107.42.14:https PA / Raw
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.10.41
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.10.41:43112 A / Padding
+--------------------------------------------------
+Source IP: 142.250.195.138
+Destination IP: 192.168.10.41
+Protocol: UDP
+Payload: UDP 142.250.195.138:https > 192.168.10.41:40158 / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 142.250.195.138
+Protocol: UDP
+Payload: UDP 192.168.10.41:40158 > 142.250.195.138:https / Raw
+--------------------------------------------------
+Source IP: 163.70.138.60
+Destination IP: 192.168.10.41
+Protocol: TCP
+Payload: TCP 163.70.138.60:https > 192.168.10.41:44500 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 163.70.138.60
+Protocol: TCP
+Payload: TCP 192.168.10.41:44500 > 163.70.138.60:https A
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 163.70.138.60
+Protocol: TCP
+Payload: TCP 192.168.10.41:44500 > 163.70.138.60:https PA / Raw
+--------------------------------------------------
+Source IP: 163.70.138.60
+Destination IP: 192.168.10.41
+Protocol: TCP
+Payload: TCP 163.70.138.60:https > 192.168.10.41:44500 A
+--------------------------------------------------
+Source IP: 163.70.138.60
+Destination IP: 192.168.10.41
+Protocol: TCP
+Payload: TCP 163.70.138.60:https > 192.168.10.41:44500 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 163.70.138.60
+Protocol: TCP
+Payload: TCP 192.168.10.41:44500 > 163.70.138.60:https A
+--------------------------------------------------
